@@ -2,6 +2,6 @@
 
 The GDSC of Asansol Engineering College is a chapter in Developer Student Clubs initiative by Google. 
 
-## Our Social
+## Our Socials
 
 [`Visit our bio.link`](https://gdscaec.bio.link)
